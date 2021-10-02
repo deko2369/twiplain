@@ -1,0 +1,7 @@
+consumer_key: snip
+consumer_secret: snip
+access_token: snip
+access_token_secret: snip
+auth_url: https://api.twitter.com/oauth/authorize
+acctoken_url: https://api.twitter.com/oauth/access_token
+reqtoken_url: https://api.twitter.com/oauth/request_token

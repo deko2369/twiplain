@@ -1,0 +1,3 @@
+<Files ~ "\.yml$">
+  deny from all
+</Files>
